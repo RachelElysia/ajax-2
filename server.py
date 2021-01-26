@@ -24,6 +24,8 @@ WEATHER = {
     '94110': {'forecast': 'Rainy, damp, and rich with hipsters.', 'temp': '60F'},
     '99507': {'forecast': 'Warm, balmy, and good for sunbathing.', 'temp': '100F'},
     '94102': {'forecast': 'Delightful, clever, and full of Python.', 'temp': '55F'},
+    '30319': {'forecast': 'Hotlanta.', 'temp': '99F'},
+    '32827': {'forecast': 'Sunny, with unpredictable showers of questionable human behavior.', 'temp': '80F'}
 }
 
 DEFAULT_WEATHER = {'forecast': 'Kind of boring.', 'temp': '68F'}
